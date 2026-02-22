@@ -3,23 +3,23 @@
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="国际",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="国际",BBC One [1/FHD]
+#EXTINF:-1 group-title="国际",BBC One
 https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
-#EXTINF:-1 group-title="国际",BBC One [2/HD]
+#EXTINF:-1 group-title="国际",BBC One
 https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
-#EXTINF:-1 group-title="国际",BBC One [3]
+#EXTINF:-1 group-title="国际",BBC One
 https://trn09.bozztv.com/gin-bbcone/index.m3u8
-#EXTINF:-1 group-title="国际",BBC Two [1/HD]
+#EXTINF:-1 group-title="国际",BBC Two
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
-#EXTINF:-1 group-title="国际",BBC Two [2/HD]
+#EXTINF:-1 group-title="国际",BBC Two
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
-#EXTINF:-1 group-title="国际",BBC Three [1/HD]
+#EXTINF:-1 group-title="国际",BBC Three
 https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
-#EXTINF:-1 group-title="国际",BBC Three [2/SD]
+#EXTINF:-1 group-title="国际",BBC Three
 https://x.canlitvapp.com/u-bbc3/index.m3u8
-#EXTINF:-1 group-title="国际",BBC Four [SD]
+#EXTINF:-1 group-title="国际",BBC Four
 https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
-#EXTINF:-1 group-title="国际",BBC Earth [SD/US]
+#EXTINF:-1 group-title="国际",BBC Earth
 https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
 #EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
